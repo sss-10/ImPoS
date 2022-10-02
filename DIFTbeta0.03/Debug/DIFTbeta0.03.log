@@ -1,0 +1,3 @@
+﻿  xMain.cpp
+C:\Users\Mahadev\source\repos\DIFTbeta0.03\DIFTbeta0.03\xMain.cpp(53,17): warning C4002: too many arguments for function-like macro invocation '_T'
+  DIFTbeta0.03.vcxproj -> C:\Users\Mahadev\source\repos\DIFTbeta0.03\Debug\DIFTbeta0.03.exe
